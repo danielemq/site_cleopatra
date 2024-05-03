@@ -94,8 +94,7 @@ section p {
 table, th, td {
     width: 40%;
     margin-top: 16px;
-    border: 1px solid rgb(238, 78, 131);    
-    border-radius: 5%;
+    border: 1px solid rgb(238, 78, 131);
     border-collapse: collapse;
   }
 
