@@ -22,18 +22,18 @@ body, input, textarea {
 header {
     padding: 16px 0;
     background-color: rgb(238, 78, 131);
-    color: #ecf0f1;
+    color: white;
 }
 
 header nav li {
     display: inline;
     margin-left: 16px;
-    color: #ecf0f1;
+    color: white;
     font-size: 18px;
 }
 
 header nav li a {
-    color: #ecf0f1;
+    color: white;
     text-decoration: none;
 }
 
@@ -154,7 +154,7 @@ section h3 {
 
 form button {
     background-color: rgb(238, 78, 131);
-    color: #ecf0f1;
+    color: white;
     border: none;
     cursor: pointer;
 }
@@ -169,6 +169,6 @@ input:focus, textarea:focus {
 
 footer {
     background-color: rgb(238, 78, 131);
-    color: #ecf0f1;
+    color: white;
     padding: 16px 0;
 }
